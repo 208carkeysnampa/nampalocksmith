@@ -1,9 +1,10 @@
-# Locksmith Near me Nampa (Single-Page Site)
+# Locksmith Near me Nampa (Jekyll Single-Page Site)
 
-SEO-focused static website targeting keywords around **lost car keys in Nampa**.
+SEO-focused Jekyll website targeting keywords around **lost car keys in Nampa**.
 
 ## Files
 - `index.html` – Main single-page site
+- `_config.yml` – Jekyll configuration for GitHub Pages
 - `styles.css` – Styling
 - `robots.txt` – Search engine crawl directives
 - `sitemap.xml` – XML sitemap
